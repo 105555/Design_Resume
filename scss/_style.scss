@@ -30,7 +30,7 @@ body,html{
         
     }
     .banner{
-        background-color:  #EFEFEF;
+        background-color:  $color_white;
         margin-bottom: 48px;
        .content{
         max-width: 1296px;
@@ -54,8 +54,8 @@ body,html{
             width: 636px;
         }
         h2{
-            color:#AE0000;
-            border-bottom:solid 3px #AE0000;
+            color:$color_red;
+            border-bottom:solid 3px $color_red;
             line-height: 60px;
             font-size: 48px;
             margin-bottom: 32px;
